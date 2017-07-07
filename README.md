@@ -1,7 +1,7 @@
 # Helloworld-PHP
 Helloworld-PHP
 
-Install git bash in windows
+Install git bash in windows (use google search)
 
 git clone https://github.com/akilkudil/Helloworld-PHP.git
 cd into the folder
