@@ -1,6 +1,6 @@
 <?php
 
 echo "Hello world!! ";
-echo "version 9";
+echo "version 10";
 
 ?>
